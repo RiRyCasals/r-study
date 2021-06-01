@@ -1,0 +1,1 @@
+sudo docker run -it -p 8888:8888 --mount type=bind,src=/home/riry/WorkSpace/R-tutorial/,dst=/home/work/ r-notebook:test
